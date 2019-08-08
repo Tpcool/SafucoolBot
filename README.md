@@ -1,1 +1,3 @@
-SafucoolBot
+# OVER_W4TCHER, a rudimentary Discord bot made for laughs
+
+This is an old bot I wrote for a private Discord server, but I eventually expanded it and put it in some other chats. I wrote it back in 2016/2017 in C# in an old version of Discord.NET that is not supported anymore. The bot's code is disgusting, and the bot itself hardly functions nowadays (if you can get it to run in the first place) because of how old the API is. However, it can be used as a reference if the bot is ever revived, or if there was any curiosity in how it worked.
